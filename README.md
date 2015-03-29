@@ -6,6 +6,7 @@ Group4-已爬網站
 5. 菲姐 363筆
 6. 型男大主廚 2602筆 
 7. 行政院農委會197筆
+8. 美食鳳味 1322筆
 http://nbviewer.ipython.org/github/mayyangtaiwan/marketingtaiwan/blob/master/Group4-%E5%B7%B2%E7%88%AC%E7%B6%B2%E7%AB%99.ipynb
 
 軒哥教學
