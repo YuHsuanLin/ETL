@@ -2,7 +2,7 @@ jieba + dictionary
 http://nbviewer.ipython.org/github/YuHsuanLin/ETL/blob/master/jieba__dictionary/0410_jieba_ingredients_dic.ipynb
 
 熱量check
-http://nbviewer.ipython.org/github/YuHsuanLin/ETL/blob/master/%E7%86%B1%E9%87%8Fcheck/%E7%86%B1%E9%87%8F%E9%A3%9F%E6%9D%90check.ipynb
+http://nbviewer.ipython.org/github/YuHsuanLin/ETL/blob/master/%E7%86%B1%E9%87%8F%E9%A3%9F%E6%9D%90check/%E7%86%B1%E9%87%8F%E9%A3%9F%E6%9D%90check.ipynb
 
 Group4-已爬網站 
 1. 楊桃網 20753筆 
