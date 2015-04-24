@@ -1,3 +1,7 @@
+食材單位轉換
+http://nbviewer.ipython.org/github/YuHsuanLin/ETL/blob/master/%E9%A3%9F%E6%9D%90%E5%96%AE%E4%BD%8D%E8%BD%89%E6%8F%9B/Ingredient_Units.ipynb
+
+
 jieba + dictionary
 http://nbviewer.ipython.org/github/YuHsuanLin/ETL/blob/master/jieba__dictionary/0410_jieba_ingredients_dic.ipynb
 
